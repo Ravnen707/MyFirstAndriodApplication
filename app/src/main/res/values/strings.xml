@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyFirstAndriodApplication</string>
+    <string name="button">Button</string>
+    <string name="name">Name</string>
+    <string name="input_age">Input Age</string>
+    <string name="input_name">Input Name</string>
 </resources>
